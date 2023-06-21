@@ -1,7 +1,8 @@
-Title: tiny little fibers
+```Title: tiny little fibers
 Points: 340
 Author: John Hammond
-Description: ""
+Description: "Oh wow, it's another of everyone's favorite. But we like to try and turn the ordinary into extraordinary!
+"```
 
 Upon opening up the challenge, we're greeted with the description and a file called "tiny-little-fibers". 
 Already, the challenge seems to be hinting to the 'strings' command. 
