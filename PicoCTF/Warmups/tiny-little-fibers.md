@@ -17,7 +17,7 @@ After downloading the file, the first thing we want to do is check the file type
 The file turns out to be a JPEG image. Could there be hidden files within the image? Let's use binwalk to find out.
 
 ```
-binwalk -e tiny--little-fibers
+binwalk -e tiny-little-fibers
 ```
 
 Unfortunately, there turns out to be no hidden files within the JPEG - Just a copyright. 
