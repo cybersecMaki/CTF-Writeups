@@ -38,7 +38,3 @@ Instead of taking your time to painfully type it out, we can go ahead and dump t
 Alternatively, for a more terminal-based approach, we can use tr -d '\n' < smaller_fibers.txt > smallest_fibers.txt. 
 
 After this, we can peacefully search for "flag{" to find our prize. Congrats! 
-
-
-
-
