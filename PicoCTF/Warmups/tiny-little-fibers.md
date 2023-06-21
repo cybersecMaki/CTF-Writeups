@@ -35,6 +35,8 @@ Instead, we take into account the newline characters, and try searching for "f\n
 
 Instead of taking your time to painfully type it out, we can go ahead and dump the file into Cyberchef and use the handy "Remove Whitespace" recipe to remove those pesky newline characters. 
 
-Alternatively, for a more terminal-based approach, we can use tr -d '\n' < smaller_fibers.txt > smallest_fibers.txt. 
+Alternatively, for a more terminal-based approach, we can use 
+
+```tr -d '\n' < smaller_fibers.txt > smallest_fibers.txt``` 
 
 After this, we can peacefully search for "flag{" to find our prize. Congrats! 
