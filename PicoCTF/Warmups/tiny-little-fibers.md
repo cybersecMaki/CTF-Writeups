@@ -24,7 +24,7 @@ But, nothing to be had, on the surface at least. Let's take a closer look at the
 ``` vim fibers.txt ``` 
 
 Here, we can see a file that contains 8326 lines of random characters separated by newlines, and no flag to be seen, so we have to take a closer look at our approach.
-Dialing into our trusty too, the default behavior of "strings" is to find readable strings with four or more characters that end in a new line. 
+Dialing into our trusty tool, the default behavior of "strings" is to find readable strings with four or more characters that end in a new line. 
 That sounds great for finding normal strings, but this is a CTF - perhaps the author was banking on us not modifying the default behavior of strings?
 After consulting the manual, we try our new command - 
 
